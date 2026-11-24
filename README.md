@@ -1,4 +1,4 @@
-# Hola, soy Yago 👋
+# Hola, soy Yago 
 
 Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en ESIC. Me gusta construir webs y apps completas: desde el diseño y la marca hasta el backend, el 3D y el despliegue.
 
@@ -6,7 +6,7 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en ESIC. Me gusta constru
 
 ---
 
-## 🌐 Webs para negocios
+## Webs para negocios
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
@@ -15,7 +15,7 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en ESIC. Me gusta constru
 | [fragance-lab](https://github.com/yago28-rgb/fragance-lab) | ESTHELA, archivo digital de perfumería | Next.js · TypeScript |
 | [Racket-Lab](https://github.com/yago28-rgb/Racket-Lab) | E-commerce de raquetas | Next.js · TypeScript |
 
-## 📱 Apps
+## Apps
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
@@ -26,7 +26,7 @@ Estudiante de **Desarrollo de Aplicaciones Web (DAW)** en ESIC. Me gusta constru
 | [gastosesic](https://github.com/yago28-rgb/gastosesic) | App de gastos instalable (PWA) | HTML · JS · PWA |
 | [esic-tareas](https://github.com/yago28-rgb/esic-tareas) | Control de exámenes y tareas de ESIC | HTML · JS · PWA |
 
-## 🎮 Juegos
+## Juegos
 
 | Proyecto | Descripción | Tecnología |
 |---|---|---|
